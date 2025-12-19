@@ -1,4 +1,3 @@
-from scipy.cluster.hierarchy import average
 
 while True:
   n = int(input("Въведете число в интервала (30 ≤ n ≤ 120): "))
