@@ -29,7 +29,6 @@ product_list = []
 n = int(input("Моля въведете брой продукти: "))
 
 for i in range(n):
-
     barcode_input = input("Баркод: ")
     name_input = input("Име: ")
     manufacturer_input = input("Производител: ")
